@@ -1,0 +1,30 @@
+{
+    "student": {
+        "name": "Manoranjith",
+        "department": "CSE",
+        "year": 2,
+        "semester": 3
+    },
+    "subjects": {
+        "Python": {
+            "marks": 82,
+            "attendance": 91,
+            "assignment": "Completed"
+        },
+        "DBMS": {
+            "marks": 74,
+            "attendance": 86,
+            "assignment": "Pending"
+        },
+        "Data Structures": {
+            "marks": 88,
+            "attendance": 94,
+            "assignment": "Completed"
+        },
+        "Operating Systems": {
+            "marks": 69,
+            "attendance": 78,
+            "assignment": "Pending"
+        }
+    }
+}
