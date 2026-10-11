@@ -1,0 +1,1 @@
+Run `python task_agent.py > run_log.txt 2>&1` after setup to generate the real terminal log.
